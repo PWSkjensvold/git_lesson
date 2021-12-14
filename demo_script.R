@@ -5,6 +5,5 @@ y <- rnorm(500)
 
 # Important feature
 
-# Crazy stuff
-
+# Alternative way
 # New feature - adding something
